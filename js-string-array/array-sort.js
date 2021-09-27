@@ -2,7 +2,7 @@
 // const sortedNumbers = numbers.sort();
 // console.log(sortedNumbers);
 
-// const friends = ['jakaria', 'karim', 'rahim', 'sham', 'abul'];
+const friends = ['jakaria', 'karim', 'rahim', 'sham', 'abul'];
 // const sortedFriends = friends.sort();
 // console.log(sortedFriends);
 
