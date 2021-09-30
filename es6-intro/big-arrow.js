@@ -28,3 +28,5 @@ console.log(output);
 console.log(value);
 console.log(name);
 console.log(total);
+
+
