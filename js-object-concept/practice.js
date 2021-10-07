@@ -40,3 +40,8 @@ const num4 = (x, y) => {
     return x + y;
 }
 // console.log(num4(1, 1));
+
+//4.
+const arr = [7, 14, 21, 28];
+const output = arr.map(x => x / 7);
+// console.log(output);
