@@ -64,8 +64,14 @@ const output2 = arr.find(x => {
 
 //(forEach)
 const output3 = arr.forEach(x => {
-    console.log(x);
+    // console.log(x);
 })
+
+//6.
+const { name, price } = obj;//object destructuring
+// console.log(name, price);
+const [zero, first, second] = arr;
+// console.log(second);
 
 
 
