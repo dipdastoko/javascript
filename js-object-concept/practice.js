@@ -30,3 +30,5 @@ const num1 = x => x / 7;
 // console.log(num1(49));
 
 //3.3
+const num3 = (x, y) => (x + y) / 2;
+console.log(num3(4, 6));
