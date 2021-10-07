@@ -60,6 +60,12 @@ const output2 = arr.find(x => {
         return x;
 
 });
-console.log(output2);
+// console.log(output2);
+
+//(forEach)
+const output3 = arr.forEach(x => {
+    console.log(x);
+})
+
 
 
