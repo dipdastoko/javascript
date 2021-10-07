@@ -41,17 +41,25 @@ const num4 = (x, y) => {
 }
 // console.log(num4(1, 1));
 
-//4.
+//4.(map)
 const arr = [7, 14, 21, 28, 22, 19];
 const output = arr.map(x => x / 7);
 // console.log(output);
 
-//5.
+//5.(filter)
 const output1 = arr.filter(x => {
     if (x % 7 == 0)
         return x;
 
 });
-console.log(output1);
+// console.log(output1);
+
+//(find)
+const output2 = arr.find(x => {
+    if (x % 7 == 0)
+        return x;
+
+});
+console.log(output2);
 
 
