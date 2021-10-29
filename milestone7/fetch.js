@@ -7,6 +7,3 @@ fetch('https://jsonplaceholder.typicode.com/todos/1')
 console.log(33333);
 console.log(44444);
 
-for (let i = 0; i < 32000; i++) {
-    console.log(i);
-}
