@@ -6,5 +6,8 @@ console.log('Second: ami second person');
 setTimeout(function () {
     console.log('I am using VS code');
 }, 5000);
+setTimeout(() => {
+    console.log('Exploring MDN articles');
+}, 4000);
 console.log('Third: ami 3 number bachha');
 console.log('Fourth: ami 4 number bachha');
